@@ -27,7 +27,7 @@ title:  'Examples of News/Reporting'
 
 <img style="width:80%" src="example_images\news_hr_2.png">
 
-<img style="width:80%" src="example_images\news_hr_2-1.png"
+<img style="width:80%" src="example_images\news_hr_2-1.png">
 
 (Source: <a href="https://vijesti.hrt.hr/svijet/ministar-grlic-radman-u-posjetu-rusiji-4796527">https://vijesti.hrt.hr/svijet/ministar-grlic-radman-u-posjetu-rusiji-4796527</a>)
 

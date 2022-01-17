@@ -129,13 +129,13 @@ Common features:
 * 1st person
 *	addressing the reader (usage of 2nd person)
 *	adverbs/adverbial clauses of time and/or place (dates, places)
-*	common words/expressions (Slovene: "obvestilo, pozivati, obveščati, prositi")
+*	common words/expressions (Slovene: "obvestilo, pozivati, obveščati, prositi", Croatian: "obavijest, obaviještavamo, molimo vas")
 
 *Note*: Unless the presence of features of News/Reporting is significant, avoid adding “News/Reporting” as the secondary category to this genre, as many Announcements intrinsically contain also some information on past events.
 
 Examples: notification (error message), announcement ("we would like to inform you").
 
-Go to [examples](announcement_examples)
+Go to [examples](announcement_examples).
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -341,6 +341,8 @@ Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [C
 
 ### Correspondence
 A text addressed to a person or organization with a form, similar to a letter, i.e. including a greeting, a complimentary close etc.
+
+Go to [examples](Correspondence-examples).
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 

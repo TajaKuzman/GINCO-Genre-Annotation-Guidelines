@@ -10,7 +10,7 @@ title:  'Examples of Information / Explanation'
 
 <img style="width:80%" src="example_images/info_en_2.jpg">
 
-(Source: <a href="https://www.ons.gov.uk/methodology/geography/ukgeographies/administrativegeography/wales">https://www.ons.gov.uk/methodology/geography/ukgeographies/administrativegeography/wales</a>
+(Source: <a href="https://www.ons.gov.uk/methodology/geography/ukgeographies/administrativegeography/wales">https://www.ons.gov.uk/methodology/geography/ukgeographies/administrativegeography/wales</a>)
 
 ### Slovene
 
@@ -20,7 +20,7 @@ title:  'Examples of Information / Explanation'
 
 <img style="width:80%" src="example_images/info_sl_2.png">
 
-(Source: <a href="https://lj.kgzs.si/izpostava-lj-moste-polje">https://lj.kgzs.si/izpostava-lj-moste-polje</a>
+(Source: <a href="https://lj.kgzs.si/izpostava-lj-moste-polje">https://lj.kgzs.si/izpostava-lj-moste-polje</a>)
 
 ### Croatian
 
@@ -30,8 +30,8 @@ title:  'Examples of Information / Explanation'
 
 <img style="width:80%" src="example_images/info_hr_2.jpg">
 
-(Source: <a href="https://nkc-tisno.hr/index.php/novosti/400-tisno-i-tisnjani-kroz-stoljeca">https://nkc-tisno.hr/index.php/novosti/400-tisno-i-tisnjani-kroz-stoljeca</a>
+(Source: <a href="https://nkc-tisno.hr/index.php/novosti/400-tisno-i-tisnjani-kroz-stoljeca">https://nkc-tisno.hr/index.php/novosti/400-tisno-i-tisnjani-kroz-stoljeca</a>)
 
 <img style="width:80%" src="example_images/Info_hr_3.png">
 
-(Source: <a href="http://www.tisno.hr/stranice/opcina-tisno/60.html">http://www.tisno.hr/stranice/opcina-tisno/60.html</a>
+(Source: <a href="http://www.tisno.hr/stranice/opcina-tisno/60.html">http://www.tisno.hr/stranice/opcina-tisno/60.html</a>)

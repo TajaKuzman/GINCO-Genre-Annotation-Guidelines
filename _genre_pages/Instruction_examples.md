@@ -19,4 +19,15 @@ title:  'Examples of Instruction'
 
 <img style="width:80%" src="example_images\instruction_sl_4.png">
 
-(Source: <a href=" https://www.reserved.com/si/sl/help-claims"> https://www.reserved.com/si/sl/help-claims</a>)
+(Source: <a href="https://www.reserved.com/si/sl/help-claims">https://www.reserved.com/si/sl/help-claims</a>)
+
+### Croatian
+
+<img style="width:80%" src="example_images\instruction_hr_1.png">
+
+(Source: <a href="https://help.minimax.hr/help/kako-da-provjerim-koje-digitalne-certifikate-imam">https://help.minimax.hr/help/kako-da-provjerim-koje-digitalne-certifikate-imam</a>)
+
+<img style="width:80%" src="example_images\instruction_hr_2.png">
+
+(Source: <a href="https://www.gumelider.com.hr/savjeti/kako-zavrnuti-vijke-naplatke">https://www.gumelider.com.hr/savjeti/kako-zavrnuti-vijke-naplatke</a>)
+

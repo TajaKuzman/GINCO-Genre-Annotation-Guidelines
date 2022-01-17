@@ -12,3 +12,19 @@ title:  'Examples of Recipe'
 <img style="width:80%" src="example_images\recipe_sl_2.png">
 
 (Source: <a href="https://www.24kitchen.si/recept/mojito-1">https://www.24kitchen.si/recept/mojito-1</a>)
+
+### Croatian
+
+<img style="width:80%" src="example_images\recipe_hr_1-1.png">
+
+<img style="width:80%" src="example_images\recipe_hr_1-2.png">
+
+(Source: <a href="https://gastro.24sata.hr/recepti/najbolji-recept-za-americke-palacinke-17662">https://gastro.24sata.hr/recepti/najbolji-recept-za-americke-palacinke-17662</a>)
+
+<img style="width:80%" src="example_images\recipe_hr_2.png">
+
+(Source: <a href="https://www.podravka.hr/recept/9570/orehnjaca/">https://www.podravka.hr/recept/9570/orehnjaca/</a>)
+
+<img style="width:80%" src="example_images\recipe_hr_3.png">
+
+(Source: <a href="https://www.recepti.hr/recepti/jela/lovaeke-knedle">https://www.recepti.hr/recepti/jela/lovaeke-knedle</a>)
