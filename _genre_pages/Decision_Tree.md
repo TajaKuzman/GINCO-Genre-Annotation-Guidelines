@@ -200,7 +200,14 @@ Go to [examples](Research_A_examples).
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
 ### Call
-A text which asks the readers to submit a paper, project proposal, original literary text etc., stating requirements and a deadline.
+A text which asks the readers to submit a paper, project proposal, original literary text etc.
+
+It consists of:
+* a deadline
+* a description of the call
+* requirements that need to be fulfilled
+* instructions on how to submit your proposal
+* common words (Slovene: "poziv, natečaj", Croatian: "poziv, natječaj")
 
 Go to [examples](Call_examples).
 
