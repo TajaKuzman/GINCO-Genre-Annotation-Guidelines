@@ -16,3 +16,18 @@ title:  'Examples of Announcement'
 <img style="width:80%" src="example_images\announcement_sl_3.jpg">
 
 (Source: <a href="http://www.dusanabordona.si/index.php/novice/490-solanje-na-daljavo-od-19-10-do-23-10-2020">http://www.dusanabordona.si/index.php/novice/490-solanje-na-daljavo-od-19-10-do-23-10-2020</a>)
+
+### Croatian
+<img style="width:80%" src="example_images\announcement_hr_1.png">
+
+<img style="width:80%" src="example_images\announcement_hr_1-2.png">
+
+(Source: <a href="https://hzzo.hr/obavijest-osiguranicima-koronavirus-covid-19">https://hzzo.hr/obavijest-osiguranicima-koronavirus-covid-19</a>)
+
+
+<img style="width:80%" src="example_images\announcement_hr_2.png">
+
+(Source: <a href="https://www.pag.hr/index.php/gradska-uprava/novosti-aktualnosti/1682-obavjest">https://www.pag.hr/index.php/gradska-uprava/novosti-aktualnosti/1682-obavjest</a>)
+
+<img style="width:80%" src="example_images\announcement_hr_3.png">
+(Source: <a href="https://www.facebook.com/mnk.makljen/posts/3020853908182915/">https://www.facebook.com/mnk.makljen/posts/3020853908182915/</a>)

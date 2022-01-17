@@ -31,3 +31,7 @@ title:  'Examples of Information / Explanation'
 <img style="width:80%" src="example_images/info_hr_2.jpg">
 
 (Source: <a href="https://nkc-tisno.hr/index.php/novosti/400-tisno-i-tisnjani-kroz-stoljeca">https://nkc-tisno.hr/index.php/novosti/400-tisno-i-tisnjani-kroz-stoljeca</a>
+
+<img style="width:80%" src="example_images/Info_hr_3.png">
+
+(Source: <a href="http://www.tisno.hr/stranice/opcina-tisno/60.html">http://www.tisno.hr/stranice/opcina-tisno/60.html</a>
