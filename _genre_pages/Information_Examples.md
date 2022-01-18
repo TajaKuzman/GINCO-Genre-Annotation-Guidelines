@@ -12,6 +12,11 @@ title:  'Examples of Information / Explanation'
 
 (Source: <a href="https://www.ons.gov.uk/methodology/geography/ukgeographies/administrativegeography/wales">https://www.ons.gov.uk/methodology/geography/ukgeographies/administrativegeography/wales</a>)
 
+<img style="width:80%" src="example_images/info_en_3.jpg">
+
+(Source: <a href="https://www.artgallery.nsw.gov.au/exhibitions/printmaking-age-romanticism/">https://www.artgallery.nsw.gov.au/exhibitions/printmaking-age-romanticism/</a>)
+
+
 ### Slovene
 
 <img style="width:80%" src="example_images/Information_sl_1.png">

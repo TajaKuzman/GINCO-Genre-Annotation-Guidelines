@@ -114,7 +114,7 @@ Common features:
 
 *Note*: Please note that direct or reported speech should be regarded as a part of news/reporting, even if it is more subjective. When deciding whether the text is subjective or not, please disregard the reported speech.
 
-*Note*: If a text which reports about an event is subjective (consists of many subjective adjectives or adverbs and particles), annotate it as **Opinionated News**.
+*Note*: If a text which reports about an event is subjective (consists of many subjective adjectives or adverbs and particles), annotate it as [Opinionated News](#opinionated-news).
 
 Examples: news report, sports report, travel blog, reportage, police report.
 
@@ -230,7 +230,7 @@ Go to [examples](Legal_examples).
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
 ### Opinionated News
-A subjective text which reports on an event recent at the time of writing or coming in the near future.
+A *subjective* text which reports on an event recent at the time of writing or coming in the near future.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -245,7 +245,7 @@ Common features:
 
 *Note*: If there are doubts whether the text belongs to *Opinionated News* or *Opinion/Argumentation*, consider whether there are any dates and locations mentioned. If not and if it seems unlikely that such text would be published on a news site, annotate it as *Opinion/Argumentation*.
 
-Examples: blog, editorial, advice, letter to editor, persuasive article or essay, formal speech, pamphlet, political propaganda, columns, political manifesto.
+Examples: blog (personal blog, travel blog), editorial, advice, letter to editor, persuasive article or essay, formal speech, pamphlet, political propaganda, columns, political manifesto.
 
 Go to [examples](Opinion_examples).
 

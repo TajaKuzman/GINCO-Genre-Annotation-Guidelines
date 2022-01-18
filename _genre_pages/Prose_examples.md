@@ -16,3 +16,13 @@ title:  'Examples of Prose'
 <img style="width:80%" src="example_images\prose_sl_3.png">
 
 (Source: <a href="http://www.cvek.si/Sala/Vili">http://www.cvek.si/Sala/Vili</a>)
+
+### English
+
+<img style="width:80%" src="example_images\prose_en_1.jpg">
+
+(Source: <a href="https://archiveofourown.org/works/300319">https://archiveofourown.org/works/300319</a>)
+
+<img style="width:80%" src="example_images\prose_en_2.jpg">
+
+(Source: <a href="http://www.wollamshram.ca/1001/Payne/tnon/p03_tale017.htm">http://www.wollamshram.ca/1001/Payne/tnon/p03_tale017.htm</a>)

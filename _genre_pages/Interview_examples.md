@@ -14,3 +14,9 @@ title:  'Examples of Interview'
 <img style="width:80%" src="example_images\interview_sl_2.png">
 
 (Source: <a href="https://onaplus.delo.si/simona-skrabec-slovenka-ki-ze-30-let-zivi-v-barceloni-zdaj-je-zares-kriza">https://onaplus.delo.si/simona-skrabec-slovenka-ki-ze-30-let-zivi-v-barceloni-zdaj-je-zares-kriza</a>)
+
+### English
+
+<img style="width:80%" src="example_images\interview-en-1.jpg">
+
+(Source: <a href="https://calgaryskateboarding.com/jed-anderson-interview/">https://calgaryskateboarding.com/jed-anderson-interview/</a>)
