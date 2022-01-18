@@ -26,3 +26,13 @@ title:  'Examples of Research Article'
 <img style="width:80%" src="example_images\research_a_hr_3.png">
 
 (Source: <a href="https://www.nsf-journal.hr/online-issues/focus/id/1272#.YeVCkv7MI2w">https://www.nsf-journal.hr/online-issues/focus/id/1272#.YeVCkv7MI2w</a>)
+
+### English
+
+<img style="width:80%" src="example_images\research_en_1.jpg">
+
+(Source: <a href="http://www.psychedelic-library.org/terrill.htm">http://www.psychedelic-library.org/terrill.htm</a>)
+
+<img style="width:80%" src="example_images\research_a_en_2.jpg">
+
+(Source: <a href="http://livestocklibrary.com.au/handle/1234/29916">http://livestocklibrary.com.au/handle/1234/29916</a>)

@@ -28,3 +28,9 @@ title:  'Examples of Recipe'
 <img style="width:80%" src="example_images\recipe_hr_3.png">
 
 (Source: <a href="https://www.recepti.hr/recepti/jela/lovaeke-knedle">https://www.recepti.hr/recepti/jela/lovaeke-knedle</a>)
+
+### English
+
+<img style="width:80%" src="example_images\recipe_en_1.jpg">
+
+(Source: <a href="http://www.bakingmakesthingsbetter.com/2012/11/orange-and-white-chocolate-cookies.html">http://www.bakingmakesthingsbetter.com/2012/11/orange-and-white-chocolate-cookies.html</a>)

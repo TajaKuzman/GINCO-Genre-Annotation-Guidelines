@@ -31,3 +31,15 @@ title:  'Examples of Instruction'
 
 (Source: <a href="https://www.gumelider.com.hr/savjeti/kako-zavrnuti-vijke-naplatke">https://www.gumelider.com.hr/savjeti/kako-zavrnuti-vijke-naplatke</a>)
 
+### English
+
+<img style="width:80%" src="example_images\instruction_en_1.jpg">
+
+(Source: <a href="http://www.origami-instructions.com/origami-elephant.html">http://www.origami-instructions.com/origami-elephant.html</a>)
+
+<img style="width:80%" src="example_images\instruction_en_2.jpg">
+
+(Source: <a href="https://www.gov.uk/skilled-worker-visa">https://www.gov.uk/skilled-worker-visa</a>)
+
+<img style="width:80%" src="example_images\instruction_en_3.jpg">
+(Source: <a href="https://www.internet4classrooms.com/excel_create_chart.htm">https://www.internet4classrooms.com/excel_create_chart.htm</a>)
