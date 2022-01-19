@@ -16,3 +16,13 @@ title:  'Examples of Promotion of Services'
 <img style="width:80%" src="example_images\promotion_services_sl_3.png">
 
 (Source: <a href="https://www.jezersek.si/si/catering">https://www.jezersek.si/si/catering</a>)
+
+### English
+
+<img style="width:80%" src="example_images\promotion_of_service_en_1.jpg">
+
+(Source: <a href="https://www.window-treatments.co.nz/about/#tab-id-3">https://www.window-treatments.co.nz/about/#tab-id-3</a>)
+
+<img style="width:80%" src="example_images\promotion_service_en_2.jpg">
+
+(Source: <a href="https://www.intelligencesquared.com/">https://www.intelligencesquared.com/</a>)

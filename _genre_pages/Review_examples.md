@@ -12,3 +12,13 @@ title:  'Examples of Review'
 <img style="width:80%" src="example_images\review_sl_2.png">
 
 (Source: <a href="https://www.robertgoreta.si/kateri-vitamin-d-izbrati/">https://www.robertgoreta.si/kateri-vitamin-d-izbrati/</a>)
+
+### English
+
+<img style="width:80%" src="example_images\Review_en_1.jpg">
+
+(Source: <a href="https://www.theglobeandmail.com/news/british-columbia/the-best-pizza-in-town-and-its-just-down-the-street/article1380508/?service=mobile">https://www.theglobeandmail.com/news/british-columbia/the-best-pizza-in-town-and-its-just-down-the-street/article1380508/?service=mobile</a>)
+
+<img style="width:80%" src="example_images\review_en_2.jpg">
+
+(Source: <a href="http://www.shadowsonthewall.co.uk/12/campaign.htm">http://www.shadowsonthewall.co.uk/12/campaign.htm</a>)

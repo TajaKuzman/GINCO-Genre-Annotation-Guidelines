@@ -17,3 +17,9 @@ title:  'Examples of Legal / Regulation'
 <img style="width:80%" src="example_images\legal_sl_3.png">
 
 (Source: <a href="http://shrani.najdi.si/index.php?kaj=pogojio">http://shrani.najdi.si/index.php?kaj=pogojio</a>)
+
+### English
+
+<img style="width:80%" src="example_images\legal_en_1.jpg">
+
+(Source: <a href="https://www.legislation.govt.nz/act/public/2015/0070/latest/DLM5976912.html">https://www.legislation.govt.nz/act/public/2015/0070/latest/DLM5976912.html</a>)
