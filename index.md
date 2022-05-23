@@ -47,9 +47,9 @@ As features of multiple genres can be intertwined in a text, **multiple labels**
 
 ### Mapping to the GINCORE schema
 
-The GINCO categories are based on the CORE schema (Egbert et al., 2015) which enables mapping the two schemata to a joint dataset (GINCORE schema) and performing in-dataset cross-lingual experiments with GINCO and CORE datasets.
+The GINCO categories are based on the CORE schema (Egbert et al., 2015) which enables mapping the two schemata to a joint schema (GINCORE schema) and performing cross-dataset cross-lingual experiments with GINCO and CORE datasets.
 
-For more information on the mappings to GINCORE schema, see the [**table here**](_genre_pages/GINCORE_mapping.md).
+For more information on the mappings to the GINCORE schema, see the [**table here**](_genre_pages/GINCORE_mapping.md).
 
 (Jesse Egbert, Douglas Biber, and Mark Davies. 2015. Developing a bottom-up, user-based method of web register classification. Journal of the Association for Information Science and Technology, 66(9):1817–1831.)
 
