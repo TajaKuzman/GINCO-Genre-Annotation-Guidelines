@@ -43,6 +43,12 @@ As features of multiple genres can be intertwined in a text, **multiple labels**
 
 <img style="width:100%" src="static/img/Genre_Schema_10.2021.png">
 
+### Mapping to the GINCORE schema
+
+The GINCO categories are based on the CORE schema which enables mapping the two schemata to a joint dataset (GINCORE schema) and performing in-dataset cross-lingual experiments with GINCO and CORE datasets.
+
+For more information on the mappings to GINCORE schema, see the [**table here**](_genre_pages/GINCORE_mapping.md).
+
 ## General Instructions
 * First, check whether there is a very recognizable form or content based on which you can quickly assign the genre. Reading the complete text is not necessary, just read a couple of sentences from the beginning, middle and the end of the text. That should give you enough information to ascertain the purpose and the most prevalent features of the text.
 * After you have familiarized yourself with the genre schema and the annotation process, the annotation should be rather quick – if you cannot quickly identify a genre of the text, we assume that such text will not be very useful for the machine learning. So if you cannot quickly recognize any genre, discard the text as Other. If you are in doubt because it seems to be a mixture of genres, check which concrete features are more prevalent to assign the main genre and assign a secondary genre as well.
