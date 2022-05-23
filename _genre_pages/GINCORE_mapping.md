@@ -2,7 +2,7 @@
 layout: entry
 title:  'GINCORE Schema'
 ---
-The table below shows how the GINCO and CORE categories can be mapped to a joint schema which allows using the GINCO datasets with CORE datasets in cross-lingual and multilingual experiments. The first column includes categories used for annotation of the English CORE corpus (Egbert et al, 2015), the second column shows an adapted schema, used in further research (described in the CORE annotation guidelines), the third column includes the joint GINCORE schema and the last column shows the GINCO schema, used in this annotation campaign.
+The table below shows how the GINCO and CORE categories can be mapped to a joint schema which allows using the GINCO datasets with CORE datasets in cross-lingual and multilingual experiments. The first column includes categories used for annotation of the English CORE corpus (Egbert et al., 2015), the second column shows an adapted schema, used in further research (described in the CORE annotation guidelines), the third column includes the joint GINCORE schema and the last column shows the GINCO schema, used in this annotation campaign.
 
 <img style="width:100%" src="example_images\GINCORE-schema.pdf">
 
