@@ -235,6 +235,8 @@ Common features:
 *	modality (must, can, cannot, should not, need to)
 * 3rd person
 
+❕ If the text is a explanation of a law, a layman’s interpretation, which means that the topic of the text is law, but the text does not have features of Legal/Regulation (it does not include legalese, very clear structure), annotate it as Information/Explanation (primary label) + Legal/Regulation (secondary label). See examples on the link below.
+
 Examples: small print, software license, rule, proclamation, terms and conditions, contracts, law, copyright notices, university regulation …
 
 Go to [examples](Legal_examples).
