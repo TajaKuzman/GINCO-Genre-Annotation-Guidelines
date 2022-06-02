@@ -32,6 +32,7 @@ title:  'Examples of Instruction'
 (Source: http://www.modna-zvezda.si/pravila-so-tu-da-jih-krsimo/)
 
 **An example of a text to be annotated Instruction (primary label) + Information/Explanation (secondary label):**
+
 <img style="width:80%" src="example_images\Instruction_information-sl-1.png">
 
 (Source: http://www.srednjasolaravne.si/index.php/projekti/drugi-projekti/132-solska-malica?tmpl=component&amp;print=1&amp;page=)

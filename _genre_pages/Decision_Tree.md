@@ -343,7 +343,7 @@ If a text reports on an event/product, which means that it has characteristics o
 
 Go to [examples](Promotional_news_examples).
 
-> ❔ How to differentiate between [Opinionated News](#opinionated-news) and a Promotion + News/Reporting text? If the text is a *subjective report* on an event, the default choice should be Opinionated News, unless it includes **promotional slogans** which could appear in an advertisement as well, then use Promotion + News/Reporting labels. See an example among the examples on the link above.
+❔ How to differentiate between [Opinionated News](#opinionated-news) and a Promotion + News/Reporting text? If the text is a *subjective report* on an event, the default choice should be Opinionated News, unless it includes **promotional slogans** which could appear in an advertisement as well, then use Promotion + News/Reporting labels. See an example among the examples on the link above.
 
 ### Interview
 A text consisting of questions posed by the interviewer and answers by the interviewee. It should consist of more than 1 question and 1 answer.
@@ -419,11 +419,17 @@ Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [C
 A text which consists of summaries or excerpts of multiple articles/topics (usually from the article archive page).
 
 Common features:
-*	short paragraphs
+*	short paragraphs, all of a similar length
 *	multiple headlines
 *	each paragraph has a separate topic
 *	paragraphs ending with three dots
 *	common words/expressions (Read more, More, See more …)
+
+❕ If the text consists of short paragraphs with similar length, and each paragraph has a separate topic, annotate it as List of Summaries/Excerpts, even if the text has a title. However, if multiple paragraphs have the same topic (see examples on the link below), then this is not a List of Summaries/Excerpt (annotate the genre according to other criteria in the Decision Tree). If you are unsure, you can add List of Summaries/Excerpt as the secondary category.
+
+❕ If all paragraphs in the list of summaries/excerpts have features of the same genre (e.g. it is a list of summaries of news articles), you can add this genre as a secondary category.
+
+❕ If a text consists of only one paragraph, but it is obvious that this would be a part of a list of summaries/excerpts (the text ends with three dots, "See more" etc.), annotate it as List of Summaries/Excerpts.
 
 Examples: summaries/excerpts of articles (news archive), summaries of series/movies in a TV program.
 
