@@ -112,15 +112,15 @@ Common features:
 * direct or reported speech
 * past tense
 
-> ❕ Please note that direct or reported speech should be regarded as a part of news/reporting, even if it is more subjective. When deciding whether the text is subjective or not, please disregard the reported speech.
+❕ Please note that direct or reported speech should be regarded as a part of news/reporting, even if it is more subjective. When deciding whether the text is subjective or not, please disregard the reported speech.
 
-> ❕ If the text has features of News/Reporting, it can be News, even if it is written in the 1st person.
+❕ If the text has features of News/Reporting, it can be News, even if it is written in the 1st person.
 
-> ❕ If the text has the form of an article that could be published in the news/in a magazine, and includes a lot of reported speech (he said, "..."), it can be annotated as News/Reporting, even if it does not report on a concrete event (see an example among the examples on the link below).
+❕ If the text has the form of an article that could be published in the news/in a magazine, and includes a lot of reported speech (he said, "..."), it can be annotated as News/Reporting, even if it does not report on a concrete event (see an example among the examples on the link below).
 
-> ❕ If a text which reports about an event is subjective (consists of many subjective adjectives or adverbs and particles), annotate it as [Opinionated News](#opinionated-news).
+❕ If a text which reports about an event is subjective (consists of many subjective adjectives or adverbs and particles), annotate it as [Opinionated News](#opinionated-news).
 
-> ❕ If the text reports on an event/product, but is very promotional, annotate it as [Promotion + News/Reporting](#promotional-news) (use Promotion the primary label and News/Reporting as the secondary label).
+❕ If the text reports on an event/product, but is very promotional, annotate it as [Promotion + News/Reporting](#promotional-news) (use Promotion the primary label and News/Reporting as the secondary label).
 
 Examples: news report, sports report, travel blog, reportage, police report.
 
@@ -137,7 +137,7 @@ Common features:
 *	adverbs/adverbial clauses of time and/or place (dates, places)
 *	common words/expressions (Slovene: "obvestilo, pozivati, obveščati, prositi", Croatian: "obavijest, obaviještavamo, molimo vas")
 
-> ❕ Unless the presence of features of News/Reporting is significant, avoid adding “News/Reporting” as the secondary category to this genre, as many Announcements intrinsically contain also some information on past events (see an example among the examples on the link below).
+❕ Unless the presence of features of News/Reporting is significant, avoid adding “News/Reporting” as the secondary category to this genre, as many Announcements intrinsically contain also some information on past events (see an example among the examples on the link below).
 
 ❔ How to differentiate between an Announcement and an [Invitation](#invitation)? See more details [here](announcement-vs-invitation).
 
@@ -158,9 +158,9 @@ Common features:
 * adverbial clauses of manner (in a way that), of condition (if), of time (after ...)
 * common words/expressions ("it is good/smart/best to ...")
 
-> ❕ If a text has features of an instruction, but it is subjective (contains subjective adjectives or adverbs, words that convey certainty), annotate it as Opinion/Argumentation as the primary category, and use the secondary category Instruction.
+❕ If a text has features of an instruction, but it is subjective (contains subjective adjectives or adverbs, words that convey certainty), annotate it as Opinion/Argumentation as the primary category, and use the secondary category Instruction.
 
-> ❕ if the text informs the reader what has to be done (rules) with many modal verbs, but does not address the reader (using 1st or 2nd person) - is more administrative, then annotate it as Instruction (primary category) + Information/Explanation (secondary category). See an example on the link below.
+❕ if the text informs the reader what has to be done (rules) with many modal verbs, but does not address the reader (using 1st or 2nd person) - is more administrative, then annotate it as Instruction (primary category) + Information/Explanation (secondary category). See an example on the link below.
 
 Go to [examples](Instruction_examples).
 
@@ -187,7 +187,7 @@ Common features:
 * explanation/definition of a concept (x is …)
 * enumeration
 
-> ❕ If the text is more subjective than objective or there are quantitatively more features of another genre, choose this genre instead of Information/Explanation.
+❕ If the text is more subjective than objective or there are quantitatively more features of another genre, choose this genre instead of Information/Explanation.
 
 Examples: informational blog, product specification, course materials, syllabus, textbook, general information, job description, manual, horoscope, travel guide, (informational) PowerPoint slides, encyclopedia article, historical article, biographical story/history.
 
@@ -255,7 +255,7 @@ Common features:
 *	Slovene: Slovene particle (členek – že, še, le, tudi, sploh …)
 * 1st person
 
-> ❕ If there are doubts whether the text belongs to *Opinionated News* or *Opinion/Argumentation*, consider whether there are any dates and locations mentioned. If not and if it seems unlikely that such text would be published on a news site, annotate it as *Opinion/Argumentation*.
+❕ If there are doubts whether the text belongs to *Opinionated News* or *Opinion/Argumentation*, consider whether there are any dates and locations mentioned. If not and if it seems unlikely that such text would be published on a news site, annotate it as *Opinion/Argumentation*.
 
 Examples: blog (personal blog, travel blog), editorial, advice, letter to editor, persuasive article or essay, formal speech, pamphlet, political propaganda, columns, political manifesto.
 
@@ -271,7 +271,7 @@ Common features:
 * topic: product or service
 * common words/expressions (Slovene: kaj je treba upoštevati, bomo preučili, kateri je najboljši, izbrati, vreden denarja, vredno investirati, kakovost, priporočati, primeren)
 
-> ❕ Use this category only for texts in which the authors convey their personal experience with the product. If the text compares multiple products, but it is not based on personal experience, annotate it as Promotion of a Product + Review (as a secondary category).
+❕ Use this category only for texts in which the authors convey their personal experience with the product. If the text compares multiple products, but it is not based on personal experience, annotate it as Promotion of a Product + Review (as a secondary category).
 
 Go to [examples](Review_examples).
 
@@ -285,9 +285,9 @@ Common features:
 *	comparative and superlative forms of adjectives and adverbs (the best, the greatest, the cheapest)
 *	addressing the reader (usage of 2nd person)
 
-> ❕ Even if the text promotes a *free* product, it is still regarded as promotion (it promotes for instance the benefits of certain foods).
+❕ Even if the text promotes a *free* product, it is still regarded as promotion (it promotes for instance the benefits of certain foods).
 
-> ❕ If the text is an review (the author conveys her/his personal experience with the product), it is regarded as Opinion and not Promotion, although it could have some promotional features.
+❕ If the text is an review (the author conveys her/his personal experience with the product), it is regarded as Opinion and not Promotion, although it could have some promotional features.
 
 Examples: advertisement, description with intent to sell, e-shop.
 
@@ -329,7 +329,7 @@ Common features:
 * adverbs/adverbial clauses of time and/or place (dates, places)
 * exclamation marks
 
-> ❕ Annotate the text as Invitation only if it explicitly invites the readers (addresses the reader) or is very subjective. Otherwise it is more likely that the text solely reports that an event is going to happen (News/Reporting).
+❕ Annotate the text as Invitation only if it explicitly invites the readers (addresses the reader) or is very subjective. Otherwise it is more likely that the text solely reports that an event is going to happen (News/Reporting).
 
 Go to [examples](Invitation_examples).
 
@@ -398,7 +398,7 @@ Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [C
 ### Prose
 A literary running text that consists of paragraphs. A literary text is deemed to have no other practical purpose than to give pleasure to the reader. Often the author pays attention to the aesthetic appearance of the text. It can be considered as art.
 
-> ❕ This category includes jokes.
+❕ This category includes jokes.
 
 Go to [examples](Prose_examples).
 
