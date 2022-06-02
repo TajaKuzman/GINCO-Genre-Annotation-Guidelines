@@ -21,6 +21,22 @@ title:  'Examples of Instruction'
 
 (Source: <a href="https://www.reserved.com/si/sl/help-claims">https://www.reserved.com/si/sl/help-claims</a>)
 
+<img style="width:80%" src="example_images\instruction_sl-1.png">
+
+(Source: http://www.siol.net/trendi/potovanja/novice/2011/09/pravice_potnikov_letalski_promet.aspx)
+
+**An example of a very subjective text --> annotated as Opinion/Argumentation (primary label) + Instruction (secondary label)**
+
+<img style="width:80%" src="example_images\opinionated-instruction-sl-1.png">
+
+(Source: http://www.modna-zvezda.si/pravila-so-tu-da-jih-krsimo/)
+
+**An example of a text to be annotated Instruction (primary label) + Information/Explanation (secondary label):**
+<img style="width:80%" src="example_images\Instruction_information-sl-1.png">
+
+(Source: http://www.srednjasolaravne.si/index.php/projekti/drugi-projekti/132-solska-malica?tmpl=component&amp;print=1&amp;page=)
+
+
 ### Croatian
 
 <img style="width:80%" src="example_images\instruction_hr_1.png">

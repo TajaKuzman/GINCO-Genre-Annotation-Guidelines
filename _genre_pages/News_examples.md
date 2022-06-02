@@ -17,6 +17,11 @@ title:  'Examples of News/Reporting'
 
 (Source: <a href="https://www.24ur.com/novice/korona/belgijsko-sodisce-astrazeneci-nalozilo-da-nujno-dostavi-50-milijonov-odmerkov-cepiva.html">https://www.24ur.com/novice/korona/belgijsko-sodisce-astrazeneci-nalozilo-da-nujno-dostavi-50-milijonov-odmerkov-cepiva.html</a>)
 
+#### An example of a News Article/Reporting that does not report on a concrete event
+<img style="width:80%" src="example_images\unusual-news-example-sl.png">
+
+(Source: <a href="https://deloindom.delo.si/gradnja-in-obnova/novogradnje/finski-program-pospesevanja-lesene-gradnje-ze-kaze-rezultate">https://deloindom.delo.si/gradnja-in-obnova/novogradnje/finski-program-pospesevanja-lesene-gradnje-ze-kaze-rezultate</a>)
+
 ### Croatian
 
 <img style="width:80%" src="example_images\news_hr_1.png">

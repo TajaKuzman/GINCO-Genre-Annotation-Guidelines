@@ -17,6 +17,13 @@ title:  'Examples of Announcement'
 
 (Source: <a href="http://www.dusanabordona.si/index.php/novice/490-solanje-na-daljavo-od-19-10-do-23-10-2020">http://www.dusanabordona.si/index.php/novice/490-solanje-na-daljavo-od-19-10-do-23-10-2020</a>)
 
+**An example of Announcement which has some features of News/Reporting, but should be annotated as Announcement nevertheless**:
+
+<img style="width:80%" src="example_images\announcement_sl_1.png">
+
+(Source: <a href="http://krsko.si/1857/zimske-razmere-v-obcini-krsko-v-ponedeljek-14-januarja">http://krsko.si/1857/zimske-razmere-v-obcini-krsko-v-ponedeljek-14-januarja</a>)
+
+
 ### Croatian
 <img style="width:80%" src="example_images\announcement_hr_1.png">
 
