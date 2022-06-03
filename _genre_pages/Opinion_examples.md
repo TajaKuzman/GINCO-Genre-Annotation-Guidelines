@@ -13,6 +13,13 @@ title:  'Examples of Opinion/Argumentation'
 
 (Source: <a href="https://publishwall.si/ivan.vogrin/post/103541/brodolom-na-kopnem-uvod-15">https://publishwall.si/ivan.vogrin/post/103541/brodolom-na-kopnem-uvod-15</a>)
 
+#### Example of a text which is written in 1st person, but is not Opinion/Argumentation
+The purpose of the text is to objectively describe the activities at the kindergarden, thus it is Information/Explanation.
+
+<img style="width:80%" src="example_images\opinion_sl_3.jpg.png">
+
+(Source: http://582.gvs.arnes.si/wordpress/vzgoja-in-izobrazevanje/vrtec/)
+
 ### English
 
 <img style="width:80%" src="example_images\opinion_en_1.jpg">

@@ -114,11 +114,11 @@ Common features:
 
 ❕ Please note that direct or reported speech should be regarded as a part of news/reporting, even if it is more subjective. When deciding whether the text is subjective or not, please disregard the reported speech.
 
-❕ If the text has features of News/Reporting, it can be News, even if it is written in the 1st person.
-
 ❕ If the text has the form of an article that could be published in the news/in a magazine, and includes a lot of reported speech (he said, "..."), it can be annotated as News/Reporting, even if it does not report on a concrete event (see an example among the examples on the link below).
 
 ❕ If a text which reports about an event is subjective (consists of many subjective adjectives or adverbs and particles), annotate it as [Opinionated News](#opinionated-news).
+
+❕ If the authors describe their personal experience and there are doubts whether the text belongs to [Opinionated News](#opinionated-news), News/Reporting or [Opinion/Argumentation](#opinionargumentation), consider whether there are any dates and locations mentioned. If yes and if it seems likely that such text would be published in a newspaper or as a news on a website of an organisation, annotate it as Opinionated News (if it is subjective) or News/Reporting (if it is objective). See more details and examples [here](opinion-vs-opinionated-news).
 
 ❕ If the text reports on an event/product, but is very promotional, annotate it as [Promotion + News/Reporting](#promotional-news) (use Promotion the primary label and News/Reporting as the secondary label).
 
@@ -246,18 +246,25 @@ Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [C
 ### Opinionated News
 A *subjective* text which reports on an event recent at the time of writing or coming in the near future.
 
+❕ If the authors describe their personal experience and there are doubts whether the text belongs to Opinionated News, [News/Reporting](#newsreporting) or [Opinion/Argumentation](#opinionargumentation), consider whether there are any dates and locations mentioned. If yes and if it seems likely that such text would be published in a newspaper or as a news on a website of an organisation, annotate it as Opinionated News (if it is subjective) or News/Reporting (if it is objective). See more details and examples [here](opinion-vs-opinionated-news).
+
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
 ### Opinion/Argumentation
-A subjective text in which the authors convey their opinion or narrate their experience. It includes promotion of an ideology and other non-commercial causes. This genre includes a subjective narration of a personal experience as well.
+A subjective text in which the authors convey their opinion or narrate their experience. It includes promotion of an ideology and other non-commercial causes. In contrast to Promotion, the main purpose of the text is not promoting a product, a service or an event. This genre includes a subjective narration of a personal experience as well.
 
 Common features:
 * subjective: contains adjectives/adverbs that convey opinion (happy, great, aweful)
-*	words that convey (un)certainty (certainly, surely)
+*	words that convey (un)certainty (certainly, surely; Slovene: (za)gotovo, seveda, res je, dejansko, jasno)
 *	Slovene: Slovene particle (členek – že, še, le, tudi, sploh …)
 * 1st person
+* exclamation marks
 
-❕ If there are doubts whether the text belongs to *Opinionated News* or *Opinion/Argumentation*, consider whether there are any dates and locations mentioned. If not and if it seems unlikely that such text would be published on a news site, annotate it as *Opinion/Argumentation*.
+❕ If the authors describe their personal experience and there are doubts whether the text belongs to [Opinionated News](#opinionated-news), [News/Reporting](#newsreporting) or Opinion/Argumentation, consider whether there are any dates and locations mentioned. If not and if it seems unlikely that such text would be published on a news site (it looks more like a blog), annotate it as *Opinion/Argumentation*. See more details and examples [here](opinion-vs-opinionated-news).
+
+❕ If the text is written in 1st person, that does not necessarily mean that it is Opinion/Argumentation - if the text is objective, it could be Information/Explanation (see an example on a link below).
+
+❔ How to differentiate between Opinion/Argumentation and [Promotion](#promotion)? See more details [here](opinion-vs-promotion).
 
 Examples: blog (personal blog, travel blog), editorial, advice, letter to editor, persuasive article or essay, formal speech, pamphlet, political propaganda, columns, political manifesto.
 
@@ -290,6 +297,8 @@ Common features:
 ❕ Even if the text promotes a *free* product, it is still regarded as promotion (it promotes for instance the benefits of certain foods).
 
 ❕ If the text is an review (the author conveys her/his personal experience with the product), it is regarded as Opinion and not Promotion, although it could have some promotional features.
+
+❔ How to differentiate between [Opinion/Argumentation](#opinionargumentation) and Promotion? See more details [here](opinion-vs-promotion).
 
 Examples: advertisement, description with intent to sell, e-shop.
 
