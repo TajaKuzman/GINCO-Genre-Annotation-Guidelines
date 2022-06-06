@@ -92,7 +92,7 @@ If the text is not suitable for annotation, please label it with one of the foll
 * **Generated Text**: a text that was automatically generated based on a form.
 * **HTML Source Code**: contains tags that are a part of a HTML code
 * **Machine Translation**: a text is an obvious machine translation (contains words that do not exist in the target language, wrong declensions of nouns, adjectives, adverbs, and wrong conjugation of verbs, incoherent text)
-* **Multiple Texts**: contains intertwined texts of various genres (e.g. an article which includes a whole letter)
+* **Multiple Texts**: contains intertwined texts of various genres (e.g. an article which includes a whole letter). It is not possible to insert a boundary between two paragraphs that would separate the text into two texts of different genres.
 * **Non-textual**: does not consist of sentences (receipts, statistics, code, program, forms for making queries, purchases, downloading or logging in, link collection, image collection, search page, tables, calendar, lists: bibliography, list of events (agenda), directory of persons in organization or organizations, menu, dictionary, glossary, CV/resume etc.). *Note*: If a text consists of some lists and other non-textual elements, but includes sentences as well, do not discard it as “non-textual”.
 * **Not Slovene**/**Not English**/**Not Croatian**: contains a full sentence in a foreign language that is not our target language. If there are only a few foreign words in an otherwise Slovene/English/Croatian text, do not discard it.
 * **Too Long**: longer than 5,000 words
@@ -187,6 +187,8 @@ Common features:
 * explanation/definition of a concept (x is …)
 * enumeration
 
+❕ If the text describes a product or a service but is not subjective nor does it address the reader - annotate it as Information/Explanation (it is an objective description), not as Promotion. See examples on the link below.
+
 ❕ If the text is more subjective than objective or there are quantitatively more features of another genre, choose this genre instead of Information/Explanation.
 
 Examples: informational blog, product specification, course materials, syllabus, textbook, general information, job description, manual, horoscope, travel guide, (informational) PowerPoint slides, encyclopedia article, historical article, biographical story/history.
@@ -280,7 +282,9 @@ Common features:
 * topic: product or service
 * common words/expressions (Slovene: kaj je treba upoštevati, bomo preučili, kateri je najboljši, izbrati, vreden denarja, vredno investirati, kakovost, priporočati, primeren)
 
-❕ Use this category only for texts in which the authors convey their personal experience with the product. If the text compares multiple products, but it is not based on personal experience, annotate it as Promotion of a Product + Review (as a secondary category).
+❕ Use this category only for texts in which the authors convey their personal experience with the product. If the text compares multiple products, but it is not based on personal experience, annotate it as Promotion of a Product (primary label) + Review (secondary category). See more details [here](#promotion-of-a-product--review).
+
+❕ If the reviews are written in a form of comments (e.g., review comments in e-shops), annotate the text as [Forum](#forum) (primary category) and Review (secondary category). See examples of such text [here](Forum_examples).
 
 Go to [examples](Review_examples).
 
@@ -293,10 +297,15 @@ Common features:
 *	subjective: contains adjectives/adverbs that promote something (high-quality, perfect, amazing, extraordinary, comfortable, extremely, very)
 *	comparative and superlative forms of adjectives and adverbs (the best, the greatest, the cheapest)
 *	addressing the reader (usage of 2nd person)
+* exclamation marks
 
-❕ Even if the text promotes a *free* product, it is still regarded as promotion (it promotes for instance the benefits of certain foods).
+❕ Even if the text promotes a *free* product, it is still regarded as promotion (it promotes for instance the benefits of eating beans) - if the author writes positively about something that could be bought and the text could appear under a product in a e-shop, this is more of a Promotion than Information/Explanation - annotate it as Promotion (of a Product). See examples of such instances [here](Promotion_Product_examples).
 
-❕ If the text is an review (the author conveys her/his personal experience with the product), it is regarded as Opinion and not Promotion, although it could have some promotional features.
+❕ If the text describes a product or a service but is not subjective nor does it address the reader - annotate it as Information/Explanation (it is an objective description). See such instances [here](Information_Examples).
+
+❕ If the text is an review (the author conveys her/his personal experience with the product), it is regarded as Review and not Promotion, although it could have some promotional features.
+
+❔ How to differentiate between [Promotion of a Product](#promotion-of-a-product) and [Promotion of Services](#promotion-of-services)? See more details [here](promotion-of-product-vs-services). If you are still unsure, annotate the text as Promotion.
 
 ❔ How to differentiate between [Opinion/Argumentation](#opinionargumentation) and Promotion? See more details [here](opinion-vs-promotion).
 
@@ -309,11 +318,37 @@ A subjective text which promotes a product, a movie, an application, a tool, or 
 
 Common features:
 * 3rd person
+* subjective adjectives and adverbs
+* exclamation marks
+* addressing the reader (2nd person)
 * common words/expressions (Slovene: ugodnost, popust, spletna trgovina, koristen, čudovit, priročen, posebnost, nič več, rešitev, na srečo, izboljšati, kakovost, želje, dolga življenjska doba)
 
 Examples: an advertisement, a product presentation page, an e-shop catalogue page.
 
 Go to [examples](Promotion_Product_examples).
+
+❕ Even if the text promotes a *free* product, it is still regarded as promotion (it promotes for instance the benefits of eating beans) - if the author writes positively about something that could be bought and the text could appear under a product in a e-shop, this is more of a Promotion than Information/Explanation - annotate it as Promotion (of a Product). See examples of such instances [here](Promotion_Product_examples).
+
+❕ If the text describes a product or a service but is not subjective nor does it address the reader - annotate it as Information/Explanation (it is an objective description). See such instances [here](Information_Examples).
+
+❕ If the text compares multiple products, but it is not based on personal experience, annotate it as Promotion of a Product (primary label) + Review (secondary category). See more details below.
+
+❔ How to differentiate between Promotion of a Product and [Promotion of Services](#promotion-of-services)? See more details [here](promotion-of-product-vs-services). If you are still unsure, annotate the text as [Promotion](#promotion).
+
+Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
+
+#### Promotion of a Product + Review
+
+If the text compares multiple products, but it is not based on personal experience, this is more of a Promotion than a Review - annotate it as Promotion of a Product (primary label) + Review (secondary label).
+
+Common features:
+* comparison of specific products
+* subjective adjectives (great, amazing)
+* common words/expressions (Slovene: prvo mesto, najboljši, najugodnejši, najvišji, lestvica, pregled ponudb; English: first place, the best, the cheapest, the highest, rank)
+
+❕ If the author just describes which type of a e.g. brush should be used for a specific task, and does not compare specific brushes (which one among them is the best), this is Instruction, not a comparison between the products.
+
+Go to [examples](Promotion_Product_Review_examples).
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -322,9 +357,13 @@ A subjective text which promotes services of a company.
 
 Common features:
 * 1st person
+* subjective adjectives and adverbs
+* addressing the readers (2nd person)
 * common words/expressions (Slovene: strokovnjaki, specialisti, partner, stranke, naročniki, kupci, izkušnje, storitve, nabor storitev, servis, potrebe, želje, rešitve, koristi, fleksibilnost, inovativnost, učinkovitost, strokovnost, pomagati, izvajati, svetovati, ponujati, zagotavljati, obvladati, po vaši meri, celosten, konkurenčen, hitro, natančno, profesionalno)
 
 Example: a company landing page.
+
+❔ How to differentiate between [Promotion of a Product](#promotion-of-a-product) and Promotion of Services? See more details [here](promotion-of-product-vs-services). If you are still unsure, annotate the text as [Promotion](#promotion).
 
 Go to [examples](Promotion_Services_examples).
 
@@ -335,14 +374,17 @@ A text which invites the readers to participate in an event or an action (such a
 
 Common features:
 * 1st person
+* the author of the text is the organiser of the event
+* adressing the reader (2nd person)
+* subjective adjectives
 * common words/expressions (invite, join us)
 * future tense
 * adverbs/adverbial clauses of time and/or place (dates, places)
 * exclamation marks
 
-❕ Annotate the text as Invitation only if it explicitly invites the readers (addresses the reader) or is very subjective. Otherwise it is more likely that the text solely reports that an event is going to happen (News/Reporting).
-
 Go to [examples](Invitation_examples).
+
+❕ Annotate the text as Invitation only if it explicitly invites the readers (addresses the reader) or is very subjective. Otherwise, if the text solely reports that an event is going to happen, does not address the readers and it does not seem that the author is the organiser of the event, annotate it as News/Reporting. See an instance of such text [here](News_examples).
 
 ❔ How to differentiate between an [Announcement](#announcement) and an [Invitation]? See more details [here](announcement-vs-invitation).
 
@@ -365,6 +407,8 @@ Common features:
 
 Go to [examples](Interview_examples).
 
+❕ If the text could belong to the "Questions from our readers" section, i.e. texts where the author writes to a doctor or another expert to help him/her regarding a specific concern, and the expert publishes the question and the answer, annotate it as [Correspondence](#correspondence), not Interview. In contrast to the Interview, these texts consists only of one question (the reader's question) and one answer (the expert's answer), not multiple questions and answers.
+
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
 ### Forum
@@ -372,15 +416,29 @@ A text in which people discuss a certain topic in form of comments.
 
 Common features:
 * multiple authors
+* informal language
+* subjective (the writers express their opinions)
+* written in 1st person
 
 Examples: comments, QA forum, reader/viewer responses.
 
 Go to [examples](Forum_examples).
 
+❕ If the text consists of only one comment, which has characteristics of a Forum still annotate as a Forum, even though there are not multiple people who discuss the topic.
+
+❕ If all of the comments are reviews - the authors do not discuss the topic, each just wrote a review on a product/restaurant/etc. in a form of a comment, annotate the text as Forum (primary category) and [Review](#review) (secondary category). See examples of such text on the link above.
+
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
 ### Correspondence
 A text addressed to a person or organization with a form, similar to a letter, i.e. including a greeting, a complimentary close etc.
+
+Common features:
+* written in 1st person
+* addresses the reader (2nd person)
+* common words/expressions, including the greeting, complimentary close (Dear ..., Best Regards, Kind Regards ...)
+
+❕ This category includes texts from "Questions from our readers" sections, i.e. texts where the author writes to a doctor or another expert to help him/her regarding a specific concern, and the expert publishes the question and the answer. In contrast to the [Interview](#interview), these texts consists only of one question (the reader's question) and one answer (the expert's answer), not multiple questions and answers.
 
 Go to [examples](Correspondence-examples).
 
@@ -452,6 +510,20 @@ Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [C
 
 A text that is appropriate for annotation but has no clear purpose or tangible features based on which it could be annotated - a non-literary text, which does not fall under any of the categories based on its purpose.
 
-Examples: legal appeal, exercise, quiz, survey, exam, worksheet.
+Texts that belong to the category Other:
+* quiz
+* survey
+* introduction into the magazine's content, introduction to a video
+* summary of a movie/book
+* speech
+* sermon
+* user's consent for data sharing
+* texts inviting the readers to participate in a giveaway, to submit their proposals or fill out a form
+* exam, exercise, worksheet
+
+
+Go to [examples](Other_examples) of these texts.
+
+If possible, when annotating the text as Other, add a note to which new genre it could belong. If there are many instances of this genre, it can become a new genre category.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).

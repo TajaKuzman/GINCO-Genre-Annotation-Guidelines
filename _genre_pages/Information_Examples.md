@@ -27,6 +27,16 @@ title:  'Examples of Information / Explanation'
 
 (Source: <a href="https://lj.kgzs.si/izpostava-lj-moste-polje">https://lj.kgzs.si/izpostava-lj-moste-polje</a>)
 
+#### Texts that describe products/services which are Information/Explanation, not Promotion
+
+<img style="width:80%" src="example_images/Information_sl_2.png">
+
+(Source: http://www.petruzalek.si/mesalci-mesa)
+
+<img style="width:80%" src="example_images/Information_sl_3.png">
+
+(Source: http://582.gvs.arnes.si/wordpress/vzgoja-in-izobrazevanje/vrtec/)
+
 ### Croatian
 
 <img style="width:80%" src="example_images/info_hr_1.jpg">

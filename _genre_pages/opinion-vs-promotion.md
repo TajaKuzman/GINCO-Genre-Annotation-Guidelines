@@ -14,3 +14,5 @@ The **topic** - if the topic is a product/a service, the text is most likely Pro
 **Common features**:
 * in Promotion, the author often adresses the reader (use of 2nd person), uses superlatives (the best, the cheapest etc.) and some common words/expressions which are connected with products/services (quality, discount, cheap, experiences, efficiency, offer, professional ...)
 * in Opinion, the author often uses 1st person singular form and words/expressions with which the author describes his/her view on a topic (happy, satisfied, content, horrible; slovene: že, še, le, sploh) or certainty about something (of course, surely, for sure, clearly; Slovene: seveda, jasno, (za)gotovo)
+
+❕ Promotional texts always promote something - persuade the reader to buy or do something. If the text advises the reader NOT to buy or do something (e.g., a text that urges the readers not to smoke) and does not promote anything, annotate is as Opinion/Argumentation.

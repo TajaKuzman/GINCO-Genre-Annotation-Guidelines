@@ -17,6 +17,17 @@ title:  'Examples of Forum'
 
 (Source: <a href="http://www.mejkap.si/2012/02/mac-copici-224-217-239.html">http://www.mejkap.si/2012/02/mac-copici-224-217-239.html</a>)
 
+#### Examples of a Forum (primary category) + Review (secondary category)
+
+<img style="width:80%" src="example_images\forum_sl_4.png">
+
+(Source: https://www.ehrana.si/en/zlata-kuhna/priloge)
+
+<img style="width:80%" src="example_images\forum_sl_5.png">
+
+(Source: https://www.spinaker.si/trgovina/navigacijska-karta-trzaski-zaliv/)
+
+
 ### English
 
 <img style="width:80%" src="example_images\forum_en_1.jpg">
