@@ -3,6 +3,15 @@ layout: entry
 title:  'Examples of Call'
 ---
 
+### Slovene
+
+<img style="width:80%" src="example_images\call_sl_1.png">
+
+<img style="width:80%" src="example_images\call_sl_2.png">
+
+(Source: http://www.podjetniski-portal.si/aktualno/index.php?t=news&amp;id=516)
+
+
 ### Croatian
 
 <img style="width:80%" src="example_images\call_hr_1.png">

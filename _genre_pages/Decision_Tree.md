@@ -216,14 +216,21 @@ Go to [examples](Research_A_examples).
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
 ### Call
-A text which asks the readers to submit a paper, project proposal, original literary text etc.
+An objective text which asks the readers to submit a paper, project proposal, original literary text etc.
 
 It consists of:
 * a deadline
 * a description of the call
 * requirements that need to be fulfilled
 * instructions on how to submit your proposal
+* a contact (where should the call be submitted)
+
+Common features:
+* written in 1st person
+* addressing the readers (2nd person)
 * common words (Slovene: "poziv, natečaj", Croatian: "poziv, natječaj")
+
+❕ If the text only describes something (e.g., a study program, a job position) and has no other characteristics of a Call (a deadline, instructions, requirements etc.), it is not a Call.
 
 Go to [examples](Call_examples).
 
@@ -433,14 +440,18 @@ Go to [examples](Forum_examples).
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
 ### Correspondence
-A text addressed to a person or organization with a form, similar to a letter, i.e. including a greeting, a complimentary close etc.
+A text, addressed to a person or organization with a form, similar to a letter, i.e. including a greeting, a complimentary close etc.
 
 Common features:
 * written in 1st person
 * addresses the reader (2nd person)
-* common words/expressions, including the greeting, complimentary close (Dear ..., Best Regards, Kind Regards ...)
+* common words/expressions, including the greeting, complimentary close (Slovene: Spoštovani, Dragi, Lep pozdrav etc.; English: Dear X, Best Regards, Kind Regards etc.)
 
-❕ This category includes texts from "Questions from our readers" sections, i.e. texts where the author writes to a doctor or another expert to help him/her regarding a specific concern, and the expert publishes the question and the answer. In contrast to the [Interview](#interview), these texts consists only of one question (the reader's question) and one answer (the expert's answer), not multiple questions and answers.
+Examples: a love letter, a letter to the expert, asking for help, etc.
+
+❕ This category includes texts from "Questions from our readers" sections, i.e. texts where the author writes to a doctor or another expert to help him/her regarding a specific concern, and the expert publishes the question and the answer. See an example on the link below. In contrast to the [Interview](#interview), these texts consists only of one question (the reader's question) and one answer (the expert's answer), not multiple questions and answers.
+
+❕ If the text is written in a form of a letter and it addresses the reader, it is annotated as Correspondence, even if it seems that the author is not expecting an answer from the receipent (e.g., a letter to the president). 
 
 Go to [examples](Correspondence-examples).
 
