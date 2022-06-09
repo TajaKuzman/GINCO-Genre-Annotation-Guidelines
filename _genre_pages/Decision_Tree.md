@@ -22,6 +22,7 @@ Do any of the following genre type characteristics apply?
 * Language: legal terms - [Legal/Regulation](#legalregulation)
 * Purpose: to invite the reader to an event/action - [Invitation](#invitation)
 * Purpose: literary purpose - the main purpose is to give pleasure to the reader (and the text is not in a form of verses or a script) - [Prose](#prose)
+* Form and purpose: a short informal comment-like message that the user published on a platform to announce to the public his/her request/offer - [Small Ad](#small-ad)
 
 If not, continue to the Decision Tree below.
 
@@ -32,7 +33,7 @@ If not, continue to the Decision Tree below.
 Is the main purpose to objectively inform the reader? Does the text contain no or almost no subjective adjectives or adverbs (already, yet, only), words that convey certainty (surely, certainly) etc.?
 * Yes, it is a report on a recent event - [News/Reporting](#newsreporting)
 * Yes, it addresses the readers and notifies them about new circumstances, asking them to act accordingly- [Announcement](#announcement)
-* Yes, it instructs the reader on how to do something - [Instruction](#instruction)
+* Yes, it instructs the readers on how to do something - [Instruction](#instruction)
 * Yes, it asks the readers to submit a paper, project proposal, original literary text etc., stating requirements and a deadline - [Call](#call)
 * Yes, but it is none of the above - [Information/Explanation](#informationexplanation)
 * No/Not sure - go to the question [2. Subjective text](#2-subjective-text)
@@ -77,6 +78,7 @@ Table of Contents:
 * [Promotional News](#promotional-news)
 * [Interview](#interview)
 * [Forum](#forum)
+* [Small Ad](#small-ad)
 * [Correspondence](#correspondence)
 * [Script/Drama](#scriptdrama)
 * [Lyrical](#lyrical)
@@ -438,6 +440,17 @@ Go to [examples](Forum_examples).
 ❕ If all of the comments are reviews - the authors do not discuss the topic, each just wrote a review on a product/restaurant/etc. in a form of a comment, annotate the text as Forum (primary category) and [Review](#review) (secondary category). See examples of such text on the link above.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
+
+### Small Ad
+A short informal comment-like message that the user published on a platform to announce to the public his/her request/offer. The author is the user of the site, however, in contrast to the Forum, the user's text is not a part of a discussion, solely an announcement to other readers. The text is usually posted on a specialised platform for small ads, such as Bolha (Slovene), Craig's List etc.
+
+Common features:
+* written in 1st person
+* informal language
+* short message with short sentences
+* common words/expressions (Slovene: podarim, prodam, oddam, kupim, iščem)
+
+Go to [examples](small-ads-examples).
 
 ### Correspondence
 A text, addressed to a person or organization with a form, similar to a letter, i.e. including a greeting, a complimentary close etc.
