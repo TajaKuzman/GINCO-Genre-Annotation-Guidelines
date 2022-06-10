@@ -32,14 +32,16 @@ Note that a text is discarded as a “machine translation” only if it is a tra
 
 ## Categories
 
-The categorization schema consists of 6 broad main categories (Information/Explanation, Legal/Regulation, Opinion/Argumentation, Promotion, Literature, Dialogue) and 16 subcategories:
-* 7 subcategories of Information/Explanation: News/Reporting, Announcement, Research Article, FAQ, List of Summaries/Excerpts, Instruction, Recipe
-* 1 subcategory of Opinion/Argumentation: Review
-* 3 subcategories of Promotion: Invitation, Promotion of Services, Promotion of a Product
-* 3 subcategories of Literature: Prose, Script/Drama, Lyrical
-* 2 subcategories of Dialogue: Forum, Interview
+The categorization schema consists of 24 categories:
+* Objective informative genres: Information/Explanation, News/Reporting, Announcement, Research Article,  Instruction, Recipe, Call, Legal/Regulation
+* Subjective non-promotional genres: Opinion/Argumentation, Opinionated News, Review
+* Promotional genres: Promotion, Invitation, Promotion of Services, Promotion of a Product
+* Genres consisting of a dialogue: Forum, Interview, Correspondence
+* Literary genres: Prose, Script/Drama, Lyrical
+* Genres based on the form of the text: FAQ, List of Summaries/Excerpts
+* Category Other
 
-In addition to this, the text could be marked as **Other** if it shows no recognizable features that are indicative of any category or if it seems to belong to a category that is not included in the schema.
+The text could be marked as **Other** if it shows no recognizable features that are indicative of any category or if it seems to belong to a category that is not included in the schema.
 
 As features of multiple genres can be intertwined in a text, **multiple labels** assigned to the same text are allowed. The secondary genre category should be the one which concrete features are less present in the text or which purpose can only be intuitively established. Please note that this applies to a single text in which the features of two genres are intertwined (e.g., an informational text which has some characteristics of a promotion as well), not to a text or multiple texts that consist of paragraphs of different genres (e. g., a document consisting of two texts: a review which is followed by a forum; a text that starts with some information on the benefits of ingredients (Information/Explanation) and continues as a recipe).
 
@@ -56,9 +58,9 @@ For more information on the mappings to the GINCORE schema, see the [**table her
 ## General Instructions
 * First, check whether there is a very recognizable form or content based on which you can quickly assign the genre. Reading the complete text is not necessary, just read a couple of sentences from the beginning, middle and the end of the text. That should give you enough information to ascertain the purpose and the most prevalent features of the text.
 * After you have familiarized yourself with the genre schema and the annotation process, the annotation should be rather quick – if you cannot quickly identify a genre of the text, we assume that such text will not be very useful for the machine learning. So if you cannot quickly recognize any genre, discard the text as Other. If you are in doubt because it seems to be a mixture of genres, check which concrete features are more prevalent to assign the main genre and assign a secondary genre as well.
-* If the quick genre categorization does not apply, use the decision tree to assign the genre. When in doubt, refer to the Description of categories and subcategories below, which includes the most prominent features and examples of each category. If you are certain of the genre, you can skip the decision tree and choose the category from the list.
-* When assigning a genre, always prioritize concrete features of the text on which the classifier can be trained over your intuition regarding the purpose of the text (as the classifier cannot assign genres based on intuition). For instance, you feel that a text about wine is promotion, because you know it is located on a winemaker’s online shop and because there is a price tag next to it, but the text itself shows no concrete characteristics of promotion (no subjective adjectives, no addressing the reader, etc.). However, it has concrete features of information/explanation (objective adjectives, enumeration, explanation of a concept …). Therefore, you should annotate this example as Information/Explanation (and annotate Promotion as secondary genre).
-* If you easily assign the genre of the text, there is no need to spend time thinking if a secondary category exists as well – this option is reserved for cases when you are considering two genres from the start. If the secondary annotation is based on intuition alone (no concrete features), please tick the box “intuition”.
+* If the quick genre categorization does not apply, use the decision tree to assign the genre. When in doubt, refer to the Categories explained below the decision tree, which includes the most prominent features and examples of each category. If you are certain of the genre, you can skip the decision tree and choose the category from the list.
+* When assigning a genre, always prioritize concrete features of the text on which the classifier can be trained over your intuition regarding the purpose of the text (as the classifier cannot assign genres based on intuition). For instance, you feel that a text about wine is promotion, because you know it is located on a winemaker’s online shop and because there is a price tag next to it, but the text itself shows no concrete characteristics of promotion (no subjective adjectives, no addressing the reader, etc.). However, it has concrete features of information/explanation (objective adjectives, enumeration, explanation of a concept …). Therefore, you should annotate this example as Information/Explanation (and annotate Promotion as the secondary genre).
+* If you easily assign the genre of the text, there is no need to spend time thinking if a secondary category exists as well – this option is reserved for cases when you are considering two genres from the start.
 * If you are not sure, do not hesitate to ask. If you refer to a particular text, include the document ID.
 * Make breaks frequently. Trying to stay focused for a long time leads to mistakes.
 
@@ -66,7 +68,7 @@ For more information on the mappings to the GINCORE schema, see the [**table her
 
 To get familiar with the genres and the decision process that should be followed, start annotating using our [**decision tree**](_genre_pages/Decision_Tree.md).
 
-By clicking on the genre category in the tree, you will be directed to a page which presents genre categories and subcategories by providing a short description, common features, and examples. The description and features of the main category apply to the subcategories as well. Common features have been identified in a preliminary study and are meant to direct the annotator towards the most probable genre, as it was noticed that most of the texts include at least one of the features that are common of their assigned genre. However, that does not mean that a text should include all of the features in order to be assigned a certain genre.
+By clicking on the genre category in the tree, you will be directed to a part of the page which presents genre categories by providing a short description, common features, and examples. Common features have been identified in a preliminary study and are meant to direct the annotator towards the most probable genre, as it was noticed that most of the texts include at least one of the features that are common of their assigned genre. However, that does not mean that a text should include all of the features in order to be assigned a certain genre.
 
 ## The Corpus
 
@@ -76,7 +78,7 @@ When annotating, please take note of the following information inside the tags:
 - id – when annotating always refer to the document by its ID
 - word_count – if the word_count exceeds 5.000, skip the text (do not annotate it)
 - duplicate = “1” – if the paragraph is a duplicate, ignore it – except if it is followed by a word “leave” (in preprocessing, all duplicated paragraphs that are not tagged as “leave” will be removed from the corpus)
-- <boundary/> - this tag denotes a start of a new text. It is followed by a number with a hashtag inside (e. g. 31796#1). When this tag occurs, annotate the text that follows as a new text and use the number with the hashtag as its ID.
+- ```<boundary/>``` - this tag denotes a start of a new text. It is followed by a number with a hashtag inside (e. g. 31796#1). When this tag occurs, annotate the text that follows as a new text and use the number with the hashtag as its ID.
 
 See an example of a text in the corpus:
 
