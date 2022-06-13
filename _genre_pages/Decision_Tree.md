@@ -43,7 +43,7 @@ Is the main purpose to objectively inform the reader? Does the text contain no o
 What is the purpose of the text?
 * To subjectively report on a recent event - [Opinionated News](#opinionated-news)
 * To promote/sell products or services (a company) - go to [3. Promotion](#3-promotion)
-* To convey opinion (no commercial purpose) - [Opinion/Argumentation](#opinionargumentation)
+* To convey opinion or subjectively narrate personal experiences (no commercial purpose) - [Opinion/Argumentation](#opinionargumentation)
 * To convey opinion on a product based on personal experiences - [Review](#review) 
 * The purpose of the text is indiscernible - not covered by other categories - [Other](#other)
 
