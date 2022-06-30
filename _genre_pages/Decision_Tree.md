@@ -122,13 +122,13 @@ Common features:
 
 ❕ If a text which reports about an event is subjective (consists of many subjective adjectives or adverbs and particles), annotate it as [Opinionated News](#opinionated-news).
 
-❕ If the authors describe their personal experience and there are doubts whether the text belongs to [Opinionated News](#opinionated-news), News/Reporting or [Opinion/Argumentation](#opinionargumentation), consider whether there are any dates and locations mentioned. If yes and if it seems likely that such text would be published in a newspaper or as a news on a website of an organisation, annotate it as Opinionated News (if it is subjective) or News/Reporting (if it is objective). See more details and examples [here](opinion-vs-opinionated-news).
+❕ If the authors describe their personal experience and there are doubts whether the text belongs to [Opinionated News](#opinionated-news), News/Reporting or [Opinion/Argumentation](#opinionargumentation), consider whether there are any dates and locations mentioned. If yes and if it seems likely that such text would be published in a newspaper or as a news on a website of an organisation, annotate it as Opinionated News (if it is subjective) or News/Reporting (if it is objective). See more details and examples [here](opinion-vs-opinionated-news){:target="_blank" rel="noopener"}.
 
 ❕ If the text reports on an event/product, but is very promotional, annotate it as [Promotion + News/Reporting](#promotional-news) (use Promotion the primary label and News/Reporting as the secondary label).
 
 Examples: news report, sports report, travel blog, reportage, police report.
 
-Go to [examples](News_examples).
+Go to [examples](News_examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -143,11 +143,11 @@ Common features:
 
 ❕ Unless the presence of features of News/Reporting is significant, avoid adding “News/Reporting” as the secondary category to this genre, as many Announcements intrinsically contain also some information on past events (see an example among the examples on the link below).
 
-❔ How to differentiate between an Announcement and an [Invitation](#invitation)? See more details [here](announcement-vs-invitation).
+❔ How to differentiate between an Announcement and an [Invitation](#invitation)? See more details [here](announcement-vs-invitation){:target="_blank" rel="noopener"}.
 
 Examples: notification (error message), announcement ("we would like to inform you").
 
-Go to [examples](announcement_examples).
+Go to [examples](announcement_examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -166,7 +166,7 @@ Common features:
 
 ❕ if the text informs the reader what has to be done (rules) with many modal verbs, but does not address the reader (using 1st or 2nd person) - is more administrative, then annotate it as Instruction (primary category) + Information/Explanation (secondary category). See an example on the link below.
 
-Go to [examples](Instruction_examples).
+Go to [examples](Instruction_examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -179,7 +179,7 @@ Common features:
 *	adverbs/adverbial clauses of manner
 *	multiple steps
 
-Go to [examples](Recipe_examples).
+Go to [examples](Recipe_examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -197,7 +197,7 @@ Common features:
 
 Examples: informational blog, product specification, course materials, syllabus, textbook, general information, job description, manual, horoscope, travel guide, (informational) PowerPoint slides, encyclopedia article, historical article, biographical story/history.
 
-Go to [examples](Information_Examples).
+Go to [examples](Information_Examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -213,7 +213,7 @@ Common features:
 
 Examples: research article, abstract.
 
-Go to [examples](Research_A_examples).
+Go to [examples](Research_A_examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -234,7 +234,7 @@ Common features:
 
 ❕ If the text only describes something (e.g., a study program, a job position) and has no other characteristics of a Call (a deadline, instructions, requirements etc.), it is not a Call.
 
-Go to [examples](Call_examples).
+Go to [examples](Call_examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -252,14 +252,14 @@ Common features:
 
 Examples: small print, software license, rule, proclamation, terms and conditions, contracts, law, copyright notices, university regulation …
 
-Go to [examples](Legal_examples).
+Go to [examples](Legal_examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
 ### Opinionated News
 A *subjective* text which reports on an event recent at the time of writing or coming in the near future.
 
-❕ If the authors describe their personal experience and there are doubts whether the text belongs to Opinionated News, [News/Reporting](#newsreporting) or [Opinion/Argumentation](#opinionargumentation), consider whether there are any dates and locations mentioned. If yes and if it seems likely that such text would be published in a newspaper or as a news on a website of an organisation, annotate it as Opinionated News (if it is subjective) or News/Reporting (if it is objective). See more details and examples [here](opinion-vs-opinionated-news).
+❕ If the authors describe their personal experience and there are doubts whether the text belongs to Opinionated News, [News/Reporting](#newsreporting) or [Opinion/Argumentation](#opinionargumentation), consider whether there are any dates and locations mentioned. If yes and if it seems likely that such text would be published in a newspaper or as a news on a website of an organisation, annotate it as Opinionated News (if it is subjective) or News/Reporting (if it is objective). See more details and examples [here](opinion-vs-opinionated-news){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -273,15 +273,15 @@ Common features:
 * 1st person
 * exclamation marks
 
-❕ If the authors describe their personal experience and there are doubts whether the text belongs to [Opinionated News](#opinionated-news), [News/Reporting](#newsreporting) or Opinion/Argumentation, consider whether there are any dates and locations mentioned. If not and if it seems unlikely that such text would be published on a news site (it looks more like a blog), annotate it as *Opinion/Argumentation*. See more details and examples [here](opinion-vs-opinionated-news).
+❕ If the authors describe their personal experience and there are doubts whether the text belongs to [Opinionated News](#opinionated-news), [News/Reporting](#newsreporting) or Opinion/Argumentation, consider whether there are any dates and locations mentioned. If not and if it seems unlikely that such text would be published on a news site (it looks more like a blog), annotate it as *Opinion/Argumentation*. See more details and examples [here](opinion-vs-opinionated-news){:target="_blank" rel="noopener"}.
 
 ❕ If the text is written in 1st person, that does not necessarily mean that it is Opinion/Argumentation - if the text is objective, it could be Information/Explanation (see an example on a link below).
 
-❔ How to differentiate between Opinion/Argumentation and [Promotion](#promotion)? See more details [here](opinion-vs-promotion).
+❔ How to differentiate between Opinion/Argumentation and [Promotion](#promotion)? See more details [here](opinion-vs-promotion){:target="_blank" rel="noopener"}.
 
 Examples: blog (personal blog, travel blog), editorial, advice, letter to editor, persuasive article or essay, formal speech, pamphlet, political propaganda, columns, political manifesto.
 
-Go to [examples](Opinion_examples).
+Go to [examples](Opinion_examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -295,9 +295,9 @@ Common features:
 
 ❕ Use this category only for texts in which the authors convey their personal experience with the product. If the text compares multiple products, but it is not based on personal experience, annotate it as Promotion of a Product (primary label) + Review (secondary category). See more details [here](#promotion-of-a-product--review).
 
-❕ If the reviews are written in a form of comments (e.g., review comments in e-shops), annotate the text as [Forum](#forum) (primary category) and Review (secondary category). See examples of such text [here](Forum_examples).
+❕ If the reviews are written in a form of comments (e.g., review comments in e-shops), annotate the text as [Forum](#forum) (primary category) and Review (secondary category). See examples of such text [here](Forum_examples){:target="_blank" rel="noopener"}.
 
-Go to [examples](Review_examples).
+Go to [examples](Review_examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -310,15 +310,15 @@ Common features:
 *	addressing the reader (usage of 2nd person)
 * exclamation marks
 
-❕ Even if the text promotes a *free* product, it is still regarded as promotion (it promotes for instance the benefits of eating beans) - if the author writes positively about something that could be bought and the text could appear under a product in a e-shop, this is more of a Promotion than Information/Explanation - annotate it as Promotion (of a Product). See examples of such instances [here](Promotion_Product_examples).
+❕ Even if the text promotes a *free* product, it is still regarded as promotion (it promotes for instance the benefits of eating beans) - if the author writes positively about something that could be bought and the text could appear under a product in a e-shop, this is more of a Promotion than Information/Explanation - annotate it as Promotion (of a Product). See examples of such instances [here](Promotion_Product_examples){:target="_blank" rel="noopener"}.
 
-❕ If the text describes a product or a service but is not subjective nor does it address the reader - annotate it as Information/Explanation (it is an objective description). See such instances [here](Information_Examples).
+❕ If the text describes a product or a service but is not subjective nor does it address the reader - annotate it as Information/Explanation (it is an objective description). See such instances [here](Information_Examples){:target="_blank" rel="noopener"}.
 
 ❕ If the text is an review (the author conveys her/his personal experience with the product), it is regarded as Review and not Promotion, although it could have some promotional features.
 
-❔ How to differentiate between [Promotion of a Product](#promotion-of-a-product) and [Promotion of Services](#promotion-of-services)? See more details [here](promotion-of-product-vs-services). If you are still unsure, annotate the text as Promotion.
+❔ How to differentiate between [Promotion of a Product](#promotion-of-a-product) and [Promotion of Services](#promotion-of-services)? See more details [here](promotion-of-product-vs-services){:target="_blank" rel="noopener"}. If you are still unsure, annotate the text as Promotion.
 
-❔ How to differentiate between [Opinion/Argumentation](#opinionargumentation) and Promotion? See more details [here](opinion-vs-promotion).
+❔ How to differentiate between [Opinion/Argumentation](#opinionargumentation) and Promotion? See more details [here](opinion-vs-promotion){:target="_blank" rel="noopener"}.
 
 Examples: advertisement, description with intent to sell, e-shop.
 
@@ -336,15 +336,15 @@ Common features:
 
 Examples: an advertisement, a product presentation page, an e-shop catalogue page.
 
-Go to [examples](Promotion_Product_examples).
+Go to [examples](Promotion_Product_examples){:target="_blank" rel="noopener"}.
 
-❕ Even if the text promotes a *free* product, it is still regarded as promotion (it promotes for instance the benefits of eating beans) - if the author writes positively about something that could be bought and the text could appear under a product in a e-shop, this is more of a Promotion than Information/Explanation - annotate it as Promotion (of a Product). See examples of such instances [here](Promotion_Product_examples).
+❕ Even if the text promotes a *free* product, it is still regarded as promotion (it promotes for instance the benefits of eating beans) - if the author writes positively about something that could be bought and the text could appear under a product in a e-shop, this is more of a Promotion than Information/Explanation - annotate it as Promotion (of a Product). See examples of such instances [here](Promotion_Product_examples){:target="_blank" rel="noopener"}.
 
-❕ If the text describes a product or a service but is not subjective nor does it address the reader - annotate it as Information/Explanation (it is an objective description). See such instances [here](Information_Examples).
+❕ If the text describes a product or a service but is not subjective nor does it address the reader - annotate it as Information/Explanation (it is an objective description). See such instances [here](Information_Examples){:target="_blank" rel="noopener"}.
 
 ❕ If the text compares multiple products, but it is not based on personal experience, annotate it as Promotion of a Product (primary label) + Review (secondary category). See more details below.
 
-❔ How to differentiate between Promotion of a Product and [Promotion of Services](#promotion-of-services)? See more details [here](promotion-of-product-vs-services). If you are still unsure, annotate the text as [Promotion](#promotion).
+❔ How to differentiate between Promotion of a Product and [Promotion of Services](#promotion-of-services)? See more details [here](promotion-of-product-vs-services){:target="_blank" rel="noopener"}. If you are still unsure, annotate the text as [Promotion](#promotion).
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -359,7 +359,7 @@ Common features:
 
 ❕ If the author just describes which type of a e.g. brush should be used for a specific task, and does not compare specific brushes (which one among them is the best), this is Instruction, not a comparison between the products.
 
-Go to [examples](Promotion_Product_Review_examples).
+Go to [examples](Promotion_Product_Review_examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -374,9 +374,9 @@ Common features:
 
 Example: a company landing page.
 
-❔ How to differentiate between [Promotion of a Product](#promotion-of-a-product) and Promotion of Services? See more details [here](promotion-of-product-vs-services). If you are still unsure, annotate the text as [Promotion](#promotion).
+❔ How to differentiate between [Promotion of a Product](#promotion-of-a-product) and Promotion of Services? See more details [here](promotion-of-product-vs-services){:target="_blank" rel="noopener"}. If you are still unsure, annotate the text as [Promotion](#promotion).
 
-Go to [examples](Promotion_Services_examples).
+Go to [examples](Promotion_Services_examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -393,11 +393,11 @@ Common features:
 * adverbs/adverbial clauses of time and/or place (dates, places)
 * exclamation marks
 
-Go to [examples](Invitation_examples).
+Go to [examples](Invitation_examples){:target="_blank" rel="noopener"}.
 
-❕ Annotate the text as Invitation only if it explicitly invites the readers (addresses the reader) or is very subjective. Otherwise, if the text solely reports that an event is going to happen, does not address the readers and it does not seem that the author is the organiser of the event, annotate it as News/Reporting. See an instance of such text [here](News_examples).
+❕ Annotate the text as Invitation only if it explicitly invites the readers (addresses the reader) or is very subjective. Otherwise, if the text solely reports that an event is going to happen, does not address the readers and it does not seem that the author is the organiser of the event, annotate it as News/Reporting. See an instance of such text [here](News_examples){:target="_blank" rel="noopener"}.
 
-❔ How to differentiate between an [Announcement](#announcement) and an Invitation? See more details [here](announcement-vs-invitation).
+❔ How to differentiate between an [Announcement](#announcement) and an Invitation? See more details [here](announcement-vs-invitation){:target="_blank" rel="noopener"}.
 
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
@@ -405,7 +405,7 @@ Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [C
 #### Promotional News
 If a text reports on an event/product, which means that it has characteristics of the News/Reporting genre, but is very promotional (so promotional that parts of the article could be used in an advertisement, e.g. "Cannon - Revolutionary. The best in the world. A perfect novelty."), annotate it as **Promotion (primary label) and News/Reporting (secondary label)**. (instead of Promotion, you can use also more specific promotional labels - Promotion of a Product, Promotion of Services etc.)
 
-Go to [examples](Promotional_news_examples).
+Go to [examples](Promotional_news_examples){:target="_blank" rel="noopener"}.
 
 ❔ How to differentiate between [Opinionated News](#opinionated-news) and a Promotion + News/Reporting text? If the text is a *subjective report* on an event, the default choice should be Opinionated News, unless it includes **promotional slogans** which could appear in an advertisement as well, then use Promotion + News/Reporting labels. See an example among the examples on the link above.
 
@@ -416,7 +416,7 @@ Common features:
 * questions and answers
 * involves multiple people
 
-Go to [examples](Interview_examples).
+Go to [examples](Interview_examples){:target="_blank" rel="noopener"}.
 
 ❕ If the text could belong to the "Questions from our readers" section, i.e. texts where the author writes to a doctor or another expert to help him/her regarding a specific concern, and the expert publishes the question and the answer, annotate it as [Correspondence](#correspondence), not Interview. In contrast to the Interview, these texts consists only of one question (the reader's question) and one answer (the expert's answer), not multiple questions and answers.
 
@@ -433,7 +433,7 @@ Common features:
 
 Examples: comments, QA forum, reader/viewer responses.
 
-Go to [examples](Forum_examples).
+Go to [examples](Forum_examples){:target="_blank" rel="noopener"}.
 
 ❕ If the text consists of only one comment, which has characteristics of a Forum still annotate as a Forum, even though there are not multiple people who discuss the topic.
 
@@ -450,7 +450,7 @@ Common features:
 * short message with short sentences
 * common words/expressions (Slovene: podarim, prodam, oddam, kupim, iščem)
 
-Go to [examples](small-ads-examples).
+Go to [examples](small-ads-examples){:target="_blank" rel="noopener"}.
 
 ### Correspondence
 A text, addressed to a person or organization with a form, similar to a letter, i.e. including a greeting, a complimentary close etc.
@@ -466,7 +466,7 @@ Examples: a love letter, a letter to the expert, asking for help, etc.
 
 ❕ If the text is written in a form of a letter and it addresses the reader, it is annotated as Correspondence, even if it seems that the author is not expecting an answer from the receipent (e.g., a letter to the president). 
 
-Go to [examples](Correspondence-examples).
+Go to [examples](Correspondence-examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -477,7 +477,7 @@ Common features:
 * dialogue of characters
 * common words (Slovene: dejanje, prizor; English: act, stage, scene)
 
-Go to [examples](Script-Drama_examples).
+Go to [examples](Script-Drama_examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -486,7 +486,7 @@ A text that consists of verses.
 
 Examples: lyrics, poems, prayers.
 
-Go to [examples](Lyrical_examples).
+Go to [examples](Lyrical_examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -495,7 +495,7 @@ A literary running text that consists of paragraphs. A literary text is deemed t
 
 ❕ This category includes jokes.
 
-Go to [examples](Prose_examples).
+Go to [examples](Prose_examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -506,7 +506,7 @@ Common features:
 *	questions and answers (one author – it is not an interview)
 *	title “Frequently Asked Questions”
 
-Go to [examples](FAQ_examples).
+Go to [examples](FAQ_examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -528,7 +528,7 @@ Common features:
 
 Examples: summaries/excerpts of articles (news archive), summaries of series/movies in a TV program.
 
-Go to [examples](List_of_Summaries_examples).
+Go to [examples](List_of_Summaries_examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -548,7 +548,7 @@ Texts that belong to the category Other:
 * exam, exercise, worksheet
 
 
-Go to [examples](Other_examples) of these texts.
+Go to [examples](Other_examples){:target="_blank" rel="noopener"} of these texts.
 
 If possible, when annotating the text as Other, add a note to which new genre it could belong. If there are many instances of this genre, it can become a new genre category.
 
