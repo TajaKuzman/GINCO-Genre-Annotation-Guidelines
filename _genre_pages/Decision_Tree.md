@@ -91,6 +91,7 @@ Table of Contents:
 ### Not Suitable
 
 If the text is not suitable for annotation, please label it with one of the following categories:
+
 * **Boilerplate**: contains only the information in the header of footer (such as "Cookies")
 * **Encoding Issues**: there are issues with encoding/OCR. *Note*: If the text is written without diacritics (c, s, and z instead of č, ć, š, and ž), annotate it with genres, do not discard it. 
 * **Generated Text**: a text that was automatically generated based on a form.
