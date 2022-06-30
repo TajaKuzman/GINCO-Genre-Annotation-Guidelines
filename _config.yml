@@ -7,6 +7,7 @@ markdown: kramdown
 # annotations.
 kramdown:
   enable_coderay: false
+  input: Kramdown
 permalinks: pretty
 # safe: true
 markdown_ext: md

@@ -102,7 +102,7 @@ If the text is not suitable for annotation, please label it with one of the foll
 * **Too Long**: longer than 5,000 words
 * **Too Short/Incoherent**: it is not possible to ascertain genre based on the text as it is too short / the text is incoherent, makes no sense.
 
-Go to [examples of Not Suitable](Not_Suitable_examples)
+Go to [examples of Not Suitable](Not_Suitable_examples){:target="_blank" rel="noopener"}
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -397,7 +397,7 @@ Go to [examples](Invitation_examples).
 
 ❕ Annotate the text as Invitation only if it explicitly invites the readers (addresses the reader) or is very subjective. Otherwise, if the text solely reports that an event is going to happen, does not address the readers and it does not seem that the author is the organiser of the event, annotate it as News/Reporting. See an instance of such text [here](News_examples).
 
-❔ How to differentiate between an [Announcement](#announcement) and an [Invitation]? See more details [here](announcement-vs-invitation).
+❔ How to differentiate between an [Announcement](#announcement) and an Invitation? See more details [here](announcement-vs-invitation).
 
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
