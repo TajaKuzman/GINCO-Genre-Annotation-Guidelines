@@ -542,7 +542,7 @@ Texts that belong to the category Other:
 * survey
 * introduction into the magazine's content, introduction to a video
 * summary of a movie/book
-* speech
+* speech (if it cannot fit under Opinion/Argumentation)
 * sermon
 * user's consent for data sharing
 * texts inviting the readers to participate in a giveaway, to submit their proposals or fill out a form
