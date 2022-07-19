@@ -75,7 +75,7 @@ Table of Contents:
 * [Promotion of a Product + Review](#promotion-of-a-product--review)
 * [Promotion of Services](#promotion-of-services)
 * [Invitation](#invitation)
-* [Promotional News](#promotional-news)
+* [Promotion + News/Reporting](#promotional-news)
 * [Interview](#interview)
 * [Forum](#forum)
 * [Small Ad](#small-ad)
@@ -403,7 +403,7 @@ Go to [examples](Invitation_examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
-#### Promotional News
+#### Promotion + News/Reporting
 If a text reports on an event/product, which means that it has characteristics of the News/Reporting genre, but is very promotional (so promotional that parts of the article could be used in an advertisement, e.g. "Cannon - Revolutionary. The best in the world. A perfect novelty."), annotate it as **Promotion (primary label) and News/Reporting (secondary label)**. (instead of Promotion, you can use also more specific promotional labels - Promotion of a Product, Promotion of Services etc.)
 
 Go to [examples](Promotional_news_examples){:target="_blank" rel="noopener"}.
