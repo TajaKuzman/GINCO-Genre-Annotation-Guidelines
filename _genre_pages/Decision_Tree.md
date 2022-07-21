@@ -276,6 +276,8 @@ Common features:
 
 ❕ If the authors describe their personal experience and there are doubts whether the text belongs to [Opinionated News](#opinionated-news), [News/Reporting](#newsreporting) or Opinion/Argumentation, consider whether there are any dates and locations mentioned. If not and if it seems unlikely that such text would be published on a news site (it looks more like a blog), annotate it as *Opinion/Argumentation*. See more details and examples [here](opinion-vs-opinionated-news){:target="_blank" rel="noopener"}.
 
+❕ If the text consists of quotes of people providing their opinion on the same topic, we annotate it as Opinion/Argumentation (see an example on a link below).
+
 ❕ If the text is written in 1st person, that does not necessarily mean that it is Opinion/Argumentation - if the text is objective, it could be Information/Explanation (see an example on a link below).
 
 ❔ How to differentiate between Opinion/Argumentation and [Promotion](#promotion)? See more details [here](opinion-vs-promotion){:target="_blank" rel="noopener"}.
