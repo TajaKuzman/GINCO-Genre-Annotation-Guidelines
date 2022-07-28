@@ -50,3 +50,8 @@ title:  'Examples of Not Suitable texts'
 <img style="width:80%" src="example_images\not_suitable_sl_7.png">
 
 (Source: <a href="https://help.icenter.si/help">https://help.icenter.si/help</a>)
+
+<img style="width:80%" src="example_images\nontextual-en-1.png">
+
+(Source: http://pinklizardpromotions.co.uk/polo-shirts?pagenumber=3)
+
