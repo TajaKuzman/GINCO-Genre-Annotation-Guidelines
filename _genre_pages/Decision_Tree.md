@@ -276,8 +276,6 @@ Common features:
 
 ❕ If the authors describe their personal experience and there are doubts whether the text belongs to [Opinionated News](#opinionated-news), [News/Reporting](#newsreporting) or Opinion/Argumentation, consider whether there are any dates and locations mentioned. If not and if it seems unlikely that such text would be published on a news site (it looks more like a blog), annotate it as *Opinion/Argumentation*. See more details and examples [here](opinion-vs-opinionated-news){:target="_blank" rel="noopener"}.
 
-❕ If the text consists of quotes of people providing their opinion on the same topic, we annotate it as Opinion/Argumentation (see an example on a link below).
-
 ❕ If the text is written in 1st person, that does not necessarily mean that it is Opinion/Argumentation - if the text is objective, it could be Information/Explanation (see an example on a link below).
 
 ❔ How to differentiate between Opinion/Argumentation and [Promotion](#promotion)? See more details [here](opinion-vs-promotion){:target="_blank" rel="noopener"}.
@@ -297,6 +295,8 @@ Common features:
 * common words/expressions (Slovene: kaj je treba upoštevati, bomo preučili, kateri je najboljši, izbrati, vreden denarja, vredno investirati, kakovost, priporočati, primeren)
 
 ❕ Use this category only for texts in which the authors convey their personal experience with the product. If the text compares multiple products, but it is not based on personal experience, annotate it as Promotion of a Product (primary label) + Review (secondary category). See more details [here](#promotion-of-a-product--review).
+
+❕ If the text consists of quotes of people providing their feedback (reporting personal experience with a product/service), we annotate it as Review (see an example on a link below).
 
 ❕ If the reviews are written in a form of comments (e.g., review comments in e-shops), annotate the text as [Forum](#forum) (primary category) and Review (secondary category). See examples of such text [here](Forum_examples){:target="_blank" rel="noopener"}.
 

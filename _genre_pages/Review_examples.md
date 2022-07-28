@@ -22,3 +22,9 @@ title:  'Examples of Review'
 <img style="width:80%" src="example_images\review_en_2.jpg">
 
 (Source: <a href="http://www.shadowsonthewall.co.uk/12/campaign.htm">http://www.shadowsonthewall.co.uk/12/campaign.htm</a>)
+
+#### Example of a text that consists mostly of citations of people reporting their (dis)satisfaction with a product/service
+
+<img style="width:80%" src="example_images\opinion-en-5.png">
+
+(Source: http://gainsboroughschool.co.uk/page/parent-feedback/)

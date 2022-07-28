@@ -33,7 +33,3 @@ The purpose of the text is to objectively describe the activities at the kinderg
 <img style="width:80%" src="example_images\opinion_en_3.jpg">
 
 (Source: <a href="https://www.abc.net.au/news/2012-06-14/scott-journalism/4068996">https://www.abc.net.au/news/2012-06-14/scott-journalism/4068996</a>)
-
-<img style="width:80%" src="example_images\opinion-en-5.png">
-
-(Source: http://gainsboroughschool.co.uk/page/parent-feedback/)
