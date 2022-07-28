@@ -196,7 +196,7 @@ Common features:
 
 ❕ If the text is more subjective than objective or there are quantitatively more features of another genre, choose this genre instead of Information/Explanation.
 
-Examples: informational blog, product specification, course materials, syllabus, textbook, general information, job description, manual, horoscope, travel guide, (informational) PowerPoint slides, encyclopedia article, historical article, biographical story/history.
+Examples: informational blog, product specification, course materials, syllabus, textbook, general information, job description, manual, horoscope, travel guide, (informational) PowerPoint slides, encyclopedia article, glossaries (textual - containing full sentences), historical article, biographical story/history.
 
 Go to [examples](Information_Examples){:target="_blank" rel="noopener"}.
 

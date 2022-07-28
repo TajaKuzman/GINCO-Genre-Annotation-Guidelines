@@ -16,6 +16,12 @@ title:  'Examples of Information / Explanation'
 
 (Source: <a href="https://www.artgallery.nsw.gov.au/exhibitions/printmaking-age-romanticism/">https://www.artgallery.nsw.gov.au/exhibitions/printmaking-age-romanticism/</a>)
 
+#### Longer, textual glossaries
+
+<img style="width:80%" src="example_images/Info_en_1.png">
+
+(Source: http://www.techlusion.com/glossary.asp?letter=O)
+
 
 ### Slovene
 
